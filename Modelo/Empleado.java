@@ -20,5 +20,4 @@ public class Empleado extends Persona {
         LugarTrabajo = lugarTrabajo;
     }
 
-    
 }
